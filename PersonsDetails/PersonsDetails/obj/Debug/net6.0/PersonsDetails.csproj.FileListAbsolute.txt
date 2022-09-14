@@ -1,0 +1,138 @@
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\appsettings.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.exe
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.deps.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.runtimeconfig.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Bogus.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\ServiceLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.AssemblyReference.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.AssemblyInfoInputs.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.AssemblyInfo.cs
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.CoreCompileInputs.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\scopedcss\bundle\PersonsDetails.styles.css
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.CopyComplete
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\refint\PersonsDetails.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.genruntimeconfig.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\PersonsDetails\obj\Debug\net6.0\ref\PersonsDetails.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\appsettings.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.exe
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.deps.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.runtimeconfig.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\PersonsDetails.pdb
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Bogus.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\ServiceLayer.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\PersonsDetails\PersonsDetails\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.AssemblyReference.cache
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.AssemblyInfoInputs.cache
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.AssemblyInfo.cs
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.CoreCompileInputs.cache
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\scopedcss\bundle\PersonsDetails.styles.css
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.csproj.CopyComplete
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\refint\PersonsDetails.dll
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.pdb
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\PersonsDetails.genruntimeconfig.cache
+D:\Projects\.net\PersonsDetails\PersonsDetails\obj\Debug\net6.0\ref\PersonsDetails.dll

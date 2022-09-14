@@ -1,0 +1,24 @@
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\New folder\New folder\PersonsDetails\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
+D:\Projects\.net\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Projects\.net\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\PersonsDetails\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\PersonsDetails\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
