@@ -2508,11 +2508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.net\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
       "projectName": "PersonsDetails",
-      "projectPath": "D:\\Projects\\.net\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
+      "projectPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.net\\PersonsDetails\\PersonsDetails\\obj\\",
+      "outputPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\PersonsDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2529,8 +2529,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\.net\\PersonsDetails\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "D:\\Projects\\.net\\PersonsDetails\\ServiceLayer\\ServiceLayer.csproj"
+            "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }

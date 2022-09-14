@@ -2296,11 +2296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.net\\PersonsDetails\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\RepositoryLayer\\RepositoryLayer.csproj",
       "projectName": "RepositoryLayer",
-      "projectPath": "D:\\Projects\\.net\\PersonsDetails\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\RepositoryLayer\\RepositoryLayer.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.net\\PersonsDetails\\RepositoryLayer\\obj\\",
+      "outputPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\RepositoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2317,8 +2317,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\.net\\PersonsDetails\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "D:\\Projects\\.net\\PersonsDetails\\DomainLayer\\DomainLayer.csproj"
+            "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\DomainLayer\\DomainLayer.csproj"
             }
           }
         }

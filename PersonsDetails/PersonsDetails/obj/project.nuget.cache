@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TSRYYaQFyhIRJ0AfzzcszZ7qkTMtJkj+TrM5DXSc+nk0L/4h2gFEuUBvmf9bjFw0TrGjb9hY4nnSI76rM4J9Rw==",
+  "dgSpecHash": "tYioZWpQizRx85oD529PubRT/igtZziygTMsbi6bJ4lwoYAEE00SOs2ZmC9td6GmzZN4bMAxNAKlI8uYQCJKPA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.net\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
+  "projectFilePath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\PersonsDetails\\PersonsDetails.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

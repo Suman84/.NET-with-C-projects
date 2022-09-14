@@ -22,17 +22,15 @@ namespace RepositoryLayer
 
             if (!(await Persons.AnyAsync()))
             {
-                //var Age = new int[] { 18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35 };
-                int[] Age = Enumerable.Range(18, 100).ToArray();
-                Random random1 = new();
-                Random random2 = new();
+                //var Age = new int[] { 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 };
+                int[] Age = Enumerable.Range(18, 20).ToArray();
+
 
                 var personFaker = new Faker<DomainLayer.Models.Person>()
                     .RuleFor(p => p.Name, f => f.Person.FullName)
                     .RuleFor(p => p.Age, f => f.PickRandom(Age))
-                    .RuleFor(p => p.Email, f => f.Person.FirstName + f.Person.LastName +random1.Next(1000,9999).ToString() + "@gmail.com")
-                    .RuleFor(p => p.Phonenumber,f => random2.NextInt64(9800000000,9899999999))
-                    .Generate(1000);
+                    .RuleFor(p => p.Email,f => f.Person.FirstName+f.PickRandom(Age))
+                    .Generate(10);
               
                 await Persons.AddRangeAsync(personFaker);
                 await SaveChangesAsync();

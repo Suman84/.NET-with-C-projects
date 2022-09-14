@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.net\\PersonsDetails\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "D:\\Projects\\.net\\PersonsDetails\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.net\\PersonsDetails\\DomainLayer\\obj\\",
+      "outputPath": "D:\\Projects\\.net\\New folder\\New folder\\PersonsDetails\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
