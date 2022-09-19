@@ -1,0 +1,17 @@
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\Projects\.net\CustomersProductsWebApp\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

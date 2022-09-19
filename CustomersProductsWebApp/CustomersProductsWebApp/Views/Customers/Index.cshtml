@@ -1,0 +1,35 @@
+﻿@model List<DomainLayer.Models.Customer>
+@{
+}
+
+<h1> Customers</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Address</th>
+			<th>Phone number</th>
+			<th>Payment type</th>
+			<th>Product ID</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var customer in Model)
+		{
+			<tr>
+				<td>@customer.Id</td>
+				<td>@customer.Name</td>
+				<td>@customer.Email</td>
+				<td>@customer.Address</td>
+				<td>@customer.PhoneNumber</td>
+				<td>@customer.PaymentType</td>
+				<td>@customer.PID</td>
+				<td><a href="Customers/view/@customer.Id">View</a></td>
+			</tr>
+		}
+	</tbody>
+</table>
