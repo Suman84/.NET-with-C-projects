@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj": {}
+    "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj": {
+    "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\obj\\",
+        "outputPath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

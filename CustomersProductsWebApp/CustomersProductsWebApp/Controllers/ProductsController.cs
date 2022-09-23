@@ -4,6 +4,8 @@ using RepositoryLayer.DataAccessLayer;
 using DomainLayer.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Xml.Linq;
+using FluentValidation;
+using DomainLayer.Validators;
 
 namespace CustomersProductsWebApp.Controllers
 {
@@ -27,8 +29,10 @@ namespace CustomersProductsWebApp.Controllers
 
         [HttpPost]
         [Route("ADD")]
-        public async Task<IActionResult> AddPerson(AddProduct _products)
+        public async Task<IActionResult> AddPerson(AddProduct _products, [FromServices] IValidator<Product> validator)
         {
+            validator = new ProductsValidator();
+
             var Products = new Product()
             {
                 Name = _products.Name, 
@@ -36,27 +40,47 @@ namespace CustomersProductsWebApp.Controllers
                 Price = _products.Price
             };
 
-            await dbContext.Products.AddAsync(Products);
-            await dbContext.SaveChangesAsync();
+            var validated = validator.Validate(Products);
 
-            return Ok(Products);
+            if(validated.IsValid)
+            {
+                await dbContext.Products.AddAsync(Products);
+                await dbContext.SaveChangesAsync();
+
+                return Ok(Products);
+            }
+            else{
+                return BadRequest("Invalid format");
+            }
+
         }
 
         //UPDATE DATA
         [HttpPut]
         [Route("Update/{Id:int}")]
-        public async Task<IActionResult> UpdatePerson([FromRoute] int Id,UpdateProduct _products)
+        public async Task<IActionResult> UpdatePerson([FromRoute] int Id,UpdateProduct _products, [FromServices] IValidator<Product> validator)
         {
+            validator = new ProductsValidator();
             var Products = await dbContext.Products.FindAsync(Id);
+
             if (Products != null)
             {
                 Products.Name = _products.Name;
                 Products.Description = _products.Description;
                 Products.Price = _products.Price;
 
-                await dbContext.SaveChangesAsync();
 
-                return Ok(Products);
+                var validated = validator.Validate(Products);
+                //VALIDATOR
+                if (validated.IsValid)
+                {
+                    await dbContext.SaveChangesAsync();
+                    return Ok(Products);
+                }
+                else
+                {
+                    return BadRequest("Invalid format");
+                }
             }
 
             return NotFound();

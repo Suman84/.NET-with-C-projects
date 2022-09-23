@@ -2465,11 +2465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.net\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\github_uploads\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
       "projectName": "ContractAPI",
-      "projectPath": "D:\\Projects\\.net\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
+      "projectPath": "D:\\Projects\\.net\\github_uploads\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.net\\ContractAPI\\ContractAPI\\obj\\",
+      "outputPath": "D:\\Projects\\.net\\github_uploads\\ContractAPI\\ContractAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

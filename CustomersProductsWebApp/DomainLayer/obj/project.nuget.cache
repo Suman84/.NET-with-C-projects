@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YvX9vdFvzfDUfXY9whhS9wewsbWo5ulMf7yFek9MNXA1wn6E4XaAcaI4tTxegoCaiT6rkfVO0IXcBNVekXeFug==",
+  "dgSpecHash": "YKDyAoYkzmLeCk5ATffFa/XDVlrydjt+jusFDNg074L2oGaTygOUGNhOXTL5ubvvt8LkydJesswOYmCCB3+OdQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.net\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\DomainLayer\\DomainLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
   "logs": []
 }

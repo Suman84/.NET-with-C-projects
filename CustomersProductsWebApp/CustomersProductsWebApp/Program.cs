@@ -1,3 +1,7 @@
+using System.Runtime;
+using DomainLayer.Models;
+using DomainLayer.Validators;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using RepositoryLayer.DataAccessLayer;
 
@@ -14,6 +18,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("WebAppConnectionString")));
+
+builder.Services.AddScoped<IValidator<Product>, ProductsValidator>();
+builder.Services.AddScoped<IValidator<Customer>, CustomerValidator>();
 
 var app = builder.Build();
 

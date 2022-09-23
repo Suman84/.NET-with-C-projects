@@ -1,6 +1,9 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Reflection.Metadata.Ecma335;
 using CustomersProductsWebApp.Models;
 using DomainLayer.Models;
+using DomainLayer.Validators;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RepositoryLayer.DataAccessLayer;
@@ -31,8 +34,10 @@ namespace CustomersProductsWebApp.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Add(AddCustomerViewModel addCustomerRequest)
+        public async Task<IActionResult> Add(AddCustomerViewModel addCustomerRequest, [FromServices] IValidator<Customer> validator)
         {
+            validator = new CustomerValidator();
+
             var customer = new Customer()
             {
                 Name = addCustomerRequest.Name,
@@ -42,10 +47,18 @@ namespace CustomersProductsWebApp.Controllers
                 Address = addCustomerRequest.Address,
                 PID = addCustomerRequest.PID
             };
+            var validated = validator.Validate(customer);
 
-            await customerDbContext.Customers.AddAsync(customer);
-            await customerDbContext.SaveChangesAsync();
-            return RedirectToAction("Index");
+            if (validated.IsValid)
+            {
+                await customerDbContext.Customers.AddAsync(customer);
+                await customerDbContext.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return BadRequest("Invalid format");
+            }
 
         }
         [HttpGet]
@@ -66,6 +79,7 @@ namespace CustomersProductsWebApp.Controllers
                     PID = customer.PID
                 };
 
+
                 return await Task.Run(() => View("View",viewModel));
 
             }
@@ -73,8 +87,9 @@ namespace CustomersProductsWebApp.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> View(UpdateCustomerViewModel model)
+        public async Task<IActionResult> View(UpdateCustomerViewModel model, [FromServices] IValidator<Customer> validator)
         {
+            validator = new CustomerValidator();
             var customer = await customerDbContext.Customers.FindAsync(model.Id);
 
             if(customer != null)
@@ -86,11 +101,22 @@ namespace CustomersProductsWebApp.Controllers
                 customer.Address = model.Address;
                 customer.PID = model.PID;
 
-                await customerDbContext.SaveChangesAsync();
+                var validated = validator.Validate(customer);
 
+                if (validated.IsValid)
+                {
+                    await customerDbContext.SaveChangesAsync();
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    return RedirectToAction("Index");
+                }
+            }
+            else
+            {
                 return RedirectToAction("Index");
             }
-            return RedirectToAction("Index");
         }
 
         [HttpPost]

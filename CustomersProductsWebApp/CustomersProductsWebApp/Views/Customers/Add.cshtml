@@ -6,15 +6,15 @@
 <form method="post" action="Add" id="customerform">
     <div class="mb-3">
         <label for="exampleInputName" class="form-label">Full Name(alphabets only)</label>
-        <input type="text" pattern="[A-Za-z ]+" class="form-control" id="InputName" asp-for="Name" required>
+        <input type="text" class="form-control" id="InputName" asp-for="Name" >
     </div>
     <div class="mb-3">
         <label for="exampleInputEmail" class="form-label">Email</label>
-        <input type="email" class="form-control" id="InputEmail" asp-for="Email" required>
+        <input type="text" class="form-control" id="InputEmail" asp-for="Email" >
     </div>
     <div class="mb-3">
         <label for="exampleInputAddress" class="form-label">Address</label>
-        <input type="text" class="form-control" id="InputAddress" asp-for="Address" required>
+        <input type="text" class="form-control" id="InputAddress" asp-for="Address" >
     </div>
     <div class="mb-3">
         <label for="exampleInputPayment" class="form-label">Payment method</label>
@@ -22,7 +22,7 @@
     </div>
     <div class="mb-3">
         <label for="exampleInputPhonenumber" class="form-label">Phone number</label>
-        <input type="number" min="1000000000" max="9999999999" class="form-control" id="InputPhonenumber" asp-for="PhoneNumber">
+        <input type="number" class="form-control" id="InputPhonenumber" asp-for="PhoneNumber">
     </div>
     <div class="mb-3">
         <label for="exampleInputPID" class="form-label">Product ID</label>

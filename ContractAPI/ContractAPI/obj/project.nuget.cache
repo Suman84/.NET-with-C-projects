@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulVx/W0NyrHUK6YsS75IfsIWwMAUMhXNyFGdhBoxO0qxJNgkiPt3sAuRrZN7grDnye3duK5czeXiSugHLrRBMQ==",
+  "dgSpecHash": "TPUiY6dGxLbwnBYdw0Bf4FOecOOt8MKxK+PSl9KJnkTIiBiMhhoSgFCDVegsIlTKsmzHIZKgKio7lCF0VooDTQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.net\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
+  "projectFilePath": "D:\\Projects\\.net\\github_uploads\\ContractAPI\\ContractAPI\\ContractAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

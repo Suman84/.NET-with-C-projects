@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "FluentValidation/11.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -741,6 +754,9 @@
       "DomainLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.2.2"
+        },
         "compile": {
           "bin/placeholder/DomainLayer.dll": {}
         },
@@ -765,6 +781,27 @@
     }
   },
   "libraries": {
+    "FluentValidation/11.2.2": {
+      "sha512": "5QEte2BUZZF6Sezeekr7Zu1THfgpxU7pmuL2SjIrajuGMah+pxPGiRiLtw+x/tSUSSVmcv9LrUe41lKu4l0n4A==",
+      "type": "package",
+      "path": "fluentvalidation/11.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.2.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -1949,11 +1986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.net\\CustomersProductsWebApp\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "D:\\Projects\\.net\\CustomersProductsWebApp\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.net\\CustomersProductsWebApp\\ServiceLayer\\obj\\",
+      "outputPath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1970,8 +2007,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\.net\\CustomersProductsWebApp\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "D:\\Projects\\.net\\CustomersProductsWebApp\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\Projects\\.net\\github_uploads\\CustomersProductsWebApp\\RepositoryLayer\\RepositoryLayer.csproj"
             }
           }
         }
